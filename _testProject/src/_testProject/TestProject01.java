@@ -6,5 +6,7 @@ public class TestProject01 {
 		int a= 1000;
 		String y="456";
 		String bb="aaa";
+		System.out.println(a);
+		System.out.println(bb);
 	}
 }
