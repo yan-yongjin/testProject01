@@ -5,5 +5,6 @@ public class TestProject01 {
 		String s="abc";
 		int a= 1000;
 		String y="456";
+		String bb="aaa";
 	}
 }
