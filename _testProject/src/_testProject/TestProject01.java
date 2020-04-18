@@ -8,5 +8,6 @@ public class TestProject01 {
 		String bb="aaa";
 		System.out.println(y);
 		String bbb ="c";
+		
 	}
 }
